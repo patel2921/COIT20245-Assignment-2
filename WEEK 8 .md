@@ -1,14 +1,5 @@
 **Task 1 Display Menu**
-def display_menu():
-    """
-    Display the menu options for the wildlife sighting program.
-    """
-    print("Menu:")
-    print("a. Print help menu")
-    print("b. Exit the program")
 
-"""Debugging the display_menu() function"""
-display_menu()
 
 
 
