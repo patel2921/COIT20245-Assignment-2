@@ -1,6 +1,6 @@
 **Task 1 Display Menu**
 
-![name](./images/Task1.PNG)
+![name](./images/Task1.png)
 
 
 
