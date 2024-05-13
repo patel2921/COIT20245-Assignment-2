@@ -27,3 +27,4 @@ for species in species_found:
 
 
 api token = "pk.37e94aa3017ca984d06aff04b69037ef"
+base_url = f"https://us1.locationiq.com/v1/search?key=pk.37e94aa3017ca984d06aff04b69037ef&q={city}&format=json&"
