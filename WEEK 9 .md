@@ -24,3 +24,6 @@ species_found = search_species(city)
 print(f"Species found in {city}:")
 for species in species_found:
     print(f"{species['name']} ({species['class']})")
+
+
+api token = "pk.37e94aa3017ca984d06aff04b69037ef"
