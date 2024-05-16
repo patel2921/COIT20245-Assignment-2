@@ -8,6 +8,7 @@ def display_menu():
     print("b. Exit the program")
 
 display_menu()
+
 **Task 1 End**
 
 
@@ -34,6 +35,7 @@ def main():
             print("Invalid command. Please enter 'help' or 'exit'.")
 if __name__ == "__main__":
     main()
+    
 **Task 2 End**
 
 
@@ -88,6 +90,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
 **Task 3 End**
 # To run your code you want to type this in command 
 # species melbourne # 
@@ -166,6 +169,7 @@ def main():
 # Debugging and testing the main() function
 if __name__ == "__main__":
     main()
+    
 **Task 4 End**
 # # To run your code you want to type this in command 
 # sighthins species melbourne # 
@@ -177,7 +181,9 @@ if __name__ == "__main__":
 
 
 # Task 5 List Venomous Species in an Area
+
 **Task 5 Start**
+
 def display_menu():
     """
     Display the menu options for the wildlife sighting program.
@@ -256,6 +262,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
 **Task 5 End**
 
 # To run this code you right this command
