@@ -1,5 +1,5 @@
-**Task 1 Display Menu**
-# Task 1 start 
+# Task 1 Display Menu
+**Task 1 start**
 print("Task 1 Display Menu")
 def display_menu():
 
@@ -8,11 +8,11 @@ def display_menu():
     print("b. Exit the program")
 
 display_menu()
-# Task 1 End 
+**Task 1 End**
 
 
-**Task 2 User Input**
-# Task 2 Start
+# Task 2 User Input
+**Task 2 Start**
 print("Task 2 User Input")
 def display_menu():
    
@@ -34,7 +34,7 @@ def main():
             print("Invalid command. Please enter 'help' or 'exit'.")
 if __name__ == "__main__":
     main()
-# Task 2 End # 
+**Task 2 End**
 
 
 
@@ -42,8 +42,8 @@ if __name__ == "__main__":
 
 
 
-**Task 3 List Species in City (Stub)**
-# Task 3 Start #
+# Task 3 List Species in City (Stub)
+**Task 3 Start**
 
 def display_menu():
 
@@ -88,7 +88,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-# Task 3 End #
+**Task 3 End**
 # To run your code you want to type this in command 
 # species melbourne # 
 
@@ -98,8 +98,8 @@ if __name__ == "__main__":
 
 
 
-**Task 4 List Animal Sightings in City (Stub)**
-# Task 4 Start #
+# Task 4 List Animal Sightings in City (Stub)
+**Task 4 Start**
 
 def display_menu():
     print("Menu:")
@@ -166,7 +166,7 @@ def main():
 # Debugging and testing the main() function
 if __name__ == "__main__":
     main()
-# Task 4 End #
+**Task 4 End**
 # # To run your code you want to type this in command 
 # sighthins species melbourne # 
 
@@ -176,8 +176,8 @@ if __name__ == "__main__":
 
 
 
-**Task 5 List Venomous Species in an Area** 
-# Task 5 Start #
+# Task 5 List Venomous Species in an Area
+**Task 5 Start**
 def display_menu():
     """
     Display the menu options for the wildlife sighting program.
@@ -256,7 +256,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-# Task 5 End #
+**Task 5 End**
 
 # To run this code you right this command
 #wildlife> venomous
