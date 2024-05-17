@@ -6,7 +6,7 @@ def gps(city):
 def search_species(city):
     coordinates = gps(city)
     
-    # Search species based on coordinates (stub implementation)
+    Search species based on coordinates (stub implementation)
     species_list = [
         {"name": "Kangaroo", "class": "Mammal"},
         {"name": "Kookaburra", "class": "Bird"},
