@@ -1,22 +1,24 @@
 # Task 1 Display Menu
 **Task 1 start**
-print("Task 1 Display Menu")
-def display_menu():
+
+    print("Task 1 Display Menu")
+    def display_menu():
 
     print("Menu:")
     print("a. Print help menu")
     print("b. Exit the program")
 
-display_menu()
+    display_menu()
 
 **Task 1 End**
 
 
 # Task 2 User Input
 **Task 2 Start**
-print("Task 2 User Input")
-def display_menu():
-   
+
+    print("Task 2 User Input")
+    def display_menu():
+       
     print("Menu:")
     print("a. Print help menu")
     print("b. Exit the program")
@@ -33,8 +35,8 @@ def main():
             return  
         else:
             print("Invalid command. Please enter 'help' or 'exit'.")
-if __name__ == "__main__":
-    main()
+    if __name__ == "__main__":
+        main()
     
 **Task 2 End**
 
