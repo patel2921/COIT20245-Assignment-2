@@ -15,7 +15,7 @@ def search_species(city):
     
     return species_list
 
-** Assert statement to check if Brisbane returns the correct GPS coordinate **
+Assert statement to check if Brisbane returns the correct GPS coordinate
 assert gps("Brisbane") == {"latitude": -27.4689682, "longitude": 153.0234991}
 
 Testing the search_species function
