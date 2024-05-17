@@ -1,7 +1,11 @@
+**Here you can show the Task 10 function only because of the sighting.py file has many contant so there is only code of function that is used for task 10. In the sighting.py whole code in it.**
+
+
 elif choice == 'f':
+
              city = input("Enter the city name: ").strip()
              taxon_id = input("Enter the taxon_id name: ").strip()
-
+             
              radius = 10000
             # radius = int(input("Enter search radius in meters: ").strip())
 
