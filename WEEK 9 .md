@@ -1,7 +1,7 @@
 # Task 6 Add a GPS stub
+
 def gps(city):
     return {"latitude": -27.4689682, "longitude": 153.0234991}
-
 def search_species(city):
     coordinates = gps(city)
     Search species based on coordinates (stub implementation)
