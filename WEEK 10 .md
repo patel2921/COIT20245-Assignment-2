@@ -1,4 +1,4 @@
-**Here you can show the Task 10 function only because of the sighting.py file has many contant so there is only code of function that is used for task 10. In the sighting.py whole code in it.**
+**Here you can show the Task 9 and 10 both are included in this code this function only because of the sighting.py file has many contant so there is only code of function that is used for task 10. In the sighting.py whole code in it.**
 
 
 
